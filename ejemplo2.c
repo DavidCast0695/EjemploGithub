@@ -8,6 +8,6 @@ int main(int argc, char const *argv[])
 	printf("Introduce tu nombre: \n");
 	scanf("%s", nombre);
 
-	printf("%s\n", nombre);
+	printf("Tu nombre es: %s\n", nombre);
 	return 0;
 }
