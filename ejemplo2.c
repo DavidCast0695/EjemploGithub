@@ -9,5 +9,6 @@ int main(int argc, char const *argv[])
 	scanf("%s", nombre);
 
 	printf("Tu nombre es: %s\n", nombre);
+	
 	return 0;
 }
